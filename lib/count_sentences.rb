@@ -31,6 +31,6 @@ class String
     count = 0
    if self.end_with?("!", "?", ".")
      count += 1
-   end    
+   end
   end
 end
